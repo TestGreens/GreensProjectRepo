@@ -2,6 +2,8 @@ package org.phone;
 public class PhoneInfo {
 	private void phoneName() {
 		System.out.println("Samsung");
+		//Newly added Code --after cloning from Repository
+		System.out.println("Samsung A53");
 }
 	private void phoneMieiNum() {
 		System.out.println("6363636636363636");
